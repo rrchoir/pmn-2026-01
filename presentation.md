@@ -7,7 +7,7 @@ footer: @rapidresponsechoir PMN 2026
 
 # Rapid Response Choir
 
-[Fit]Vision and Mission
+## Vision and Mission
 
 The Rapid Response Choir sings for truth, justice, and democracy – we stand against threats to the Constitution and our community....
 
@@ -34,7 +34,7 @@ I pondered, if we had a Rapid Response Choir. Which would:
 * First practice on February 4
 * First public appearance March 4
 * 40 subsequent events in 2025
-* One event _per day_ in 2026 (through 1/12)
+* One event _per day_ in 2026 (through 1/13)
 * Four chapters (DC, Baltimore, N. Virginia, Massachusetts)
 
 ^
@@ -43,11 +43,11 @@ announced it at College Park Chorale practice on groundhog Day "Hey - what the w
 response choir! If you're game, see me at break. About 1/5th of the choir 
 were in for this.
 
-We started practicing in my basement, working from YouTube, doing outreach,
+^We started practicing in my basement, working from YouTube, doing outreach,
 getting a domain and website and mailing list, ordering 
 pink vests and by March we were raring to go.
 
-I worked some contacts with a local climate action network, and offered to provide song leading for a rally to support NOAA scientist (just down the road from us) and from there we've grown to... Supporting 40 events in 2025, to 13 events in the first 2 two weeks of 2026! We have chapters in NE DC, N. Virginia, Baltimore, and central Massachusetts.
+^I worked some contacts with a local climate action network, and offered to provide song leading for a rally to support NOAA scientist (just down the road from us) and from there we've grown to... Supporting 40 events in 2025, to 13 events in the first 2 two weeks of 2026! We have chapters in NE DC, N. Virginia, Baltimore, and central Massachusetts.
 
 Here we are in action on Oct 18 @ No Kings Two:
 
@@ -75,12 +75,10 @@ to solidarity events for the transgender community. Sometimes we're invited,
 sometimes we just show up early, start singing, and see how we can help 
 the event organizers.
 
-I'm not at most events. We've leaned on training up song leaders,
+^I'm not at most events. We've leaned on training up song leaders,
 making a visual and musical impact, and using modern tools for organizing.
 
-
 ---
-
 
 # Song leaders
 
@@ -97,40 +95,102 @@ making a visual and musical impact, and using modern tools for organizing.
 * Enhances Safety (pack in/pack out)
 * Provides a visual element for organizers
 * Lends authority
-* 
 
 ^Image - Me and the first vest
 
+^Unlike Tshirts, easy to don, and doff
+We're provided a backdrop for press conference
+Makes it a lot easier to get the attention of an event coordinator,
+eg. at the Venezuela protets.
+
+
 ---
 
-# Effective use of web/mail/Signal
+# How we use web/mail/Signal
 
-* Signal: 
+* Web site - public
+  * Songs / Events + QR code / Chapters (coming soon)
+* Mailing list - restricted
+* Signal groups - vetted
+  * Song leaders group
+  * Entire choir (noisy!)
+  * Event-specific
+
+---
+
+# How an event unfolds
+
 * Signal: A song leader pitches the idea
-* Signal group focusses chatter for event
 * After :thumbs-up: x 3, a new channel
 * Email sent out to amplify
-* Web page with a song list takes ~2 minutes
+* Web page with a song list
+* Coordination on event-specific Signal
+* Muster 30-40 minutes early and: Sing!
+
+^
 * Lots of people to help with:
   * formatting, printing song sheets
   * off site safety coordinators
   * and more...
-
----
-
-# Sample Timeline
-
+So... We've and others have done all these events, what
+good has come of it?
 
 ---
 
 # Outcomes
 
 * Kilmar Ábrego García is home
-  * https://www.bbc.com/news/articles/cx2ny7yl097o
-* Avelo is ceasing DHS flights
-* Shuttered Target during small-biz Saturday (DCLC)
+* Avelo Airlines is ceasing DHS flights
+* Shuttered DC Target during small-biz Saturday (DCLC)
 * Reclaimed one parking lot from ICE (DCLC)
 
+---
+
+![fit](./media/kilmar-bbc.png)
+
+^ https://www.bbc.com/news/articles/cx2ny7yl097o
+
+---
+
+![right fit](./media/kilmar-bbc.png)
+
+# Kilmar
+
+* March: "Mistakenly" detained and deported to CECOT
+* April 4: Federal court hearing - coordinate w/ CASA and CAN
+  * Response from the family
+  * Press coverage
+  * Continued protest
+  * Political attention and ... change
+
+^Political actors like Sen. Chris Van Hollen got involved
+because they sensed a political opportunity that would not
+have appealed to them had the community sat on their hands
+
+^People kept coming back because the protests were hopeful
+and uplifting instead of just strident and angry
+
+^The family felt supported: We heard from CASA staff that
+Jennifer, his wife, and other family members felt blessed 
+and relieved that, expecting shouts and anger, they were greeting 
+with singing and centering: Paz, queremos paz, y libertad, 
+en este mundo.
+
+^So we kept showing up, hearing after hearing, rain & heat, and
+now Kilmar is home his family.
+
+---
+
+
+# Kilmar
+
+* March: "Mistakenly" detained and deported to CECOT
+* April 4: Federal court hearing - coordinate w/ CASA and CAN
+  * Response from the family
+  * Press coverage
+  * Continued protest
+  * Political attention and ... change
+    
 ---
 
 # Taking Back our Neighborhood
@@ -197,3 +257,11 @@ That's a lot of pink vests :smile:
 ---
 
 # Safety / Security / Privacy
+
+---
+
+# Grab bag
+
+- Acoustical challenges
+- Strange bedfellows
+- Singing at active detentions/abductions doesn't work
