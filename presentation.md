@@ -18,6 +18,7 @@ Events:
 - ranging from 5 of us singing at elementary school, to 40 of us at NK2
 - sometimes we sing on the outskirts
 - or we don't have a role, sing early, invite organizers to include us
+- here's an example from Oct 18 @ No Kings Two:
 
 ---
 
@@ -55,23 +56,27 @@ from 0:20 to 1:20
 
 ---
 
-# Signal - Timeline
+# Event Timeline - 
 
 * A song leader pitches the idea
 * After :thumbs-up: x 3, a new channel
-* Email sent out to amplify 
-  * Web page with song list & links
-  * Usually we print song sheets too
+* Email sent out to amplify
 * Signal group focusses chatter for event
+* Web page with a song list takes ~2 minutes
+* Lots of people to help with:
+  * formatting, printing song sheets
+  * off site safety coordinators
+  * and more...
 
 ---
 
 # Outcomes
 
-* Kilmar Abrego García is home
+* Kilmar Ábrego García is home
   * https://www.bbc.com/news/articles/cx2ny7yl097o
 * Avelo is ceasing DHS flights
-* We've reclaimed one parking lot from ICE
+* We (DCLC et al.) reclaimed one parking lot from ICE
+* And shuttered Target during small-biz Saturday
 
 ---
 
@@ -111,3 +116,39 @@ from 0:20 to 1:20
 
 
 ---
+
+# Why?
+
+* 3.5% of the population 
+  * = 9.1 million
+* If 1:500 of those people sing
+  * = 45,000 singers
+  * (or 9,100 if 1:1000 ratio)
+
+That's a lot of pink vests :smile:
+
+--- 
+
+# Components
+
+* You
+  * And other choristers
+* Practices
+  * Trust
+  * Songleading
+* Comms
+  * Signal
+  * Email
+  * Web presence
+
+---
+
+# Components, cont.
+
+* Buy vests
+* Find events & sing
+* Stay connected
+
+---
+
+# Safety / Security / Privacy
