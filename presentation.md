@@ -5,20 +5,51 @@ slidenumbers: true
 autoscale: true
 footer: @rapidresponsechoir PMN 2026
 
+# Rapid Response Choir
+
+[Fit]Vision and Mission
+
+The Rapid Response Choir sings for truth, justice, and democracy – we stand against threats to the Constitution and our community....
+
+When authoritarian forces seek to harm our neighbors and community, the Rapid Response Choir will be there to sing truth to power.
+
+^
+The literal vision for the RRC came to me on Sunday morning, 
+Jan 26, 2025. I was serving as Door Guardian for a majority immigrant 
+church, with my cheat sheet for how to respond should "La Migra" show up. 
+In putting together our Door Guardian practices, we knew eventually we should build
+out a rapid response network of: witnesses, political actors, & media.
+
+^
+As I sat through service in the lobby, I mused on the notion of "Rapid 
+Response", and I had a vision of am impassioned choir from the local 
+churches marching down singing upon the ICE agents, calling them 
+to task, and supporting our beleaguered neighbors. Wouldn't it be amazing,
+I pondered, if we had a Rapid Response Choir. Which would: 
+
+---
+
 # Rapid Response Choir - 2025
 
-* Groundhog Day 2025
+* First practice on February 4
 * First public appearance March 4
 * 40 subsequent events in 2025
 * One event _per day_ in 2026 (through 1/12)
-  * 3 (or 4) chapters
+* Four chapters (DC, Baltimore, N. Virginia, Massachusetts)
 
 ^
-Events: 
-- ranging from 5 of us singing at elementary school, to 40 of us at NK2
-- sometimes we sing on the outskirts
-- or we don't have a role, sing early, invite organizers to include us
-- here's an example from Oct 18 @ No Kings Two:
+So the RRC was born. I took that idea, published a Google Doc, and
+announced it at College Park Chorale practice on groundhog Day "Hey - what the world needs is rapid
+response choir! If you're game, see me at break. About 1/5th of the choir 
+were in for this.
+
+We started practicing in my basement, working from YouTube, doing outreach,
+getting a domain and website and mailing list, ordering 
+pink vests and by March we were raring to go.
+
+I worked some contacts with a local climate action network, and offered to provide song leading for a rally to support NOAA scientist (just down the road from us) and from there we've grown to... Supporting 40 events in 2025, to 13 events in the first 2 two weeks of 2026! We have chapters in NE DC, N. Virginia, Baltimore, and central Massachusetts.
+
+Here we are in action on Oct 18 @ No Kings Two:
 
 ---
 
@@ -37,31 +68,48 @@ from 0:20 to 1:20
 * Colorful vests
 * Effective use of Signal + Email + Web
 
+^
+Now, not all our events have the same lead time. They've been as 
+small as 5 of us for elementary school, to fund raisers, to court hearings
+to solidarity events for the transgender community. Sometimes we're invited,
+sometimes we just show up early, start singing, and see how we can help 
+the event organizers.
+
+I'm not at most events. We've leaned on training up song leaders,
+making a visual and musical impact, and using modern tools for organizing.
+
+
 ---
+
 
 # Song leaders
 
 * No one person has to lead all the songs
-* A choral quorum (6) means you have backup
 * Practices are as much about song leading as singing
+* We find safe places for novice song leader
+* A choral quorum (6) means you have backup
 
 ---
 
 # Colorful vests
 
-* A sense of solidarity boost courage
-* Event organizers use us as visual theme
-* Safety (pack in/pack out)
+* Boosts courage
+* Enhances Safety (pack in/pack out)
+* Provides a visual element for organizers
 * Lends authority
+* 
+
+^Image - Me and the first vest
 
 ---
 
-# Event Timeline - 
+# Effective use of web/mail/Signal
 
-* A song leader pitches the idea
+* Signal: 
+* Signal: A song leader pitches the idea
+* Signal group focusses chatter for event
 * After :thumbs-up: x 3, a new channel
 * Email sent out to amplify
-* Signal group focusses chatter for event
 * Web page with a song list takes ~2 minutes
 * Lots of people to help with:
   * formatting, printing song sheets
@@ -70,19 +118,34 @@ from 0:20 to 1:20
 
 ---
 
+# Sample Timeline
+
+
+---
+
 # Outcomes
 
 * Kilmar Ábrego García is home
   * https://www.bbc.com/news/articles/cx2ny7yl097o
 * Avelo is ceasing DHS flights
-* We (DCLC et al.) reclaimed one parking lot from ICE
-* And shuttered Target during small-biz Saturday
+* Shuttered Target during small-biz Saturday (DCLC)
+* Reclaimed one parking lot from ICE (DCLC)
 
 ---
 
-# Parking lot video
+# Taking Back our Neighborhood
 
 
+---
+
+# Repurposing Songs
+
+^
+America the Beautiful
+
+---
+
+# More Outcomes
 
 ---
 
@@ -93,31 +156,13 @@ from 0:20 to 1:20
 
 ---
 
-# De-escalation example #1
-
-![](./media/army-navy.mp4)
-
----
-
 # De-escalation example #2
 
-* Vignette from Baltimore
+* Vignette from NoVa
 
 ---
 
-# [fit] New Chapter
-# [fit] Starter Kit
-
---- 
-
-# But first, a song
-
-... america the beautiful ...
-
-
----
-
-# Why?
+# Growing to meet the challenge
 
 * 3.5% of the population 
   * = 9.1 million
