@@ -47,7 +47,7 @@ were in for this.
 getting a domain and website and mailing list, ordering 
 pink vests and by March we were raring to go.
 
-^I worked some contacts with a local climate action network, and offered to provide song leading for a rally to support NOAA scientist (just down the road from us) and from there we've grown to... Supporting 40 events in 2025, to 13 events in the first 2 two weeks of 2026! We have chapters in NE DC, N. Virginia, Baltimore, and central Massachusetts.
+^I  had some contacts with a local climate action network, and offered to provide song leading for a rally to support NOAA scientist (just down the road from us) and from there we've grown to... Supporting 40 events in 2025, to 13 events in the first 2 two weeks of 2026! We have chapters in NE DC, N. Virginia, Baltimore, and central Massachusetts.
 
 Here we are in action on Oct 18 @ No Kings Two:
 
@@ -190,7 +190,7 @@ now Kilmar is home his family.
   * Press coverage
   * Continued protest
   * Political attention and ... change
-    
+
 ---
 
 # Taking Back our Neighborhood
@@ -198,10 +198,55 @@ now Kilmar is home his family.
 
 ---
 
-# Repurposing Songs
+# Reclaiming Songs
 
-^
-America the Beautiful
+## America the Beautiful
+
+O beautiful for spacious skies,
+For amber waves of grain,
+For purple mountain majesties
+Above the fruited plain!
+America! America!
+God shed his grace on thee
+And crown thy good with brotherhood
+From sea to shining sea!
+
+_Hummm...._
+
+---
+
+^Patriotic songs are our songs. We celebrate
+not just beauty of America, but our heroes. Yes,
+those who served in uniform, but all who had the courage to stand for justice and freedom.
+The self-emancipated, the abolitionists, the unionizers, the freedom riders, 
+the AIDS activists, and the queer who live authentic lives with pride. These are who make America beautiful
+
+## America the Beautiful
+
+
+[.column] 
+O beautiful for heroes proved
+In liberating strife,
+Who more than self their country loved
+And mercy more than life!
+America! America!
+May God thy gold refine
+Till all success be nobleness
+And every gain divine!
+
+_(– Katherine Lee Bates)_
+
+[.column]
+O beautiful thy immigrants
+Who hail from every land
+Their hope and heart and diligence
+Like gifts from god’s own hand
+America! America!
+Thy grace shall yet remain
+To greet the poor who reach thy shore
+With open arms again
+
+_(– Jesse Palidofsky)_
 
 ---
 
