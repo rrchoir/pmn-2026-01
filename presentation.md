@@ -35,7 +35,7 @@ I pondered, if we had a Rapid Response Choir. Which would:
 ![right](./media/noaa-freebeacon.png)
 
 * First practice on February 4
-* First public appearance (right)  March 3
+* First public appearance (right ➡️)  March 3
 * Forty subsequent events in 2025 – small and large
 * One event _per day_ in 2026 (through 1/13)
 * Four chapters (DC, Baltimore, N. Virginia, Massachusetts)
@@ -69,7 +69,7 @@ from 0:20 to 1:20
 
 * Song leaders
 * Effective use of Signal + Email + Web
-* Colorful vests
+* Pink vests
 
 ^
 We've been learning as we go, in retrospect, some keys have been:
@@ -86,7 +86,7 @@ We've been learning as we go, in retrospect, some keys have been:
 
 ---
 
-# How we use web/mail/Signal
+# Using web/mail/Signal
 
 * Web site - public
   * Songs / Events + QR code / Chapters (coming soon)
@@ -99,10 +99,10 @@ We've been learning as we go, in retrospect, some keys have been:
 
 ---
 
-# Colorful vests 🦺
+# Pink vests 🦺
 
 * Boosts courage
-* Supports afety (pack in/pack out)
+* Supports safety (pack in/pack out)
 * Lends authority
 * Enhances media presence
   * Which helps the event 
@@ -152,7 +152,7 @@ good has come of it?
 
 ---
 
-# Kilmar
+# Kilmar Ábrego García
 
 * March: "Mistakenly" detained and deported to CECOT
 * Family sued, with support from CASA Maryland
@@ -166,7 +166,7 @@ good has come of it?
 
 1. We provided solace to the family
 2. “Anger motivates, music sustains”
-3. We kept the media focus on the case
+3. One element to keep media focus on the case
 4. Politicians saw an opportunity ...
 5. ... Kilmar is home with his family
 
@@ -194,7 +194,7 @@ now Kilmar is home his family.
 
 ---
 
-# Reclaiming America the Beautiful
+# Reclaiming _America the Beautiful_
 
 * _please hum, or "oooh"_
 
@@ -210,7 +210,7 @@ with pride. These are our heros who make America beautiful
 
 ---
 
-## America the Beautiful
+## _America the Beautiful_
 
 [.column]
 O beautiful thy immigrants
@@ -242,11 +242,12 @@ _(– Katherine Lee Bates)_
 
 # Other Benefits
 
-* Motivates continuing on
-* Event tactics
+* Keeps people coming back
+* Tactics for safety & variety
   * “Buttons” between speakers
   * “Mic check” for safety
 * De-escalating conflict
+  * This one flummoxes some folks, so
 
 ^
 - We need people showing up and coming back
