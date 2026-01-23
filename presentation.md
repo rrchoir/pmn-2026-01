@@ -194,7 +194,7 @@ now Kilmar is home his family.
 
 ## Taking Back our Neighborhood
 
-![](./media/DCLC.mp4)
+![](./media/dclc-40s.mov)
 
 ---
 
