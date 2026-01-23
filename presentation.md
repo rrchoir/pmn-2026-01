@@ -32,10 +32,13 @@ I pondered, if we had a Rapid Response Choir. Which would:
 # Rapid Response Choir - 2025
 
 * First practice on February 4
-* First public appearance March 4
+* First public appearance March 3
 * 40 subsequent events in 2025
 * One event _per day_ in 2026 (through 1/13)
 * Four chapters (DC, Baltimore, N. Virginia, Massachusetts)
+
+^
+TRIM THIS - You get it going and it starts.
 
 ^
 So the RRC was born. I took that idea, published a Google Doc, and
@@ -118,14 +121,15 @@ eg. at the Venezuela protets.
 
 ---
 
-# How an event unfolds
+# How an Event Unfolds
 
-* Signal: A song leader pitches the idea
-* After :thumbs-up: x 3, a new channel
-* Email sent out to amplify
+* Inquiry, or a choir member pitches an event
+* After :thumbsup: x 3, a new Signal group
+* Email sent out to amplify, if time allows
 * Web page with a song list
 * Coordination on event-specific Signal
 * Muster 30-40 minutes early and: Sing!
+* Be good guests of the organizers
 
 ^
 * Lots of people to help with:
@@ -139,7 +143,7 @@ good has come of it?
 
 # Outcomes
 
-* Kilmar Ábrego García is home
+* **Kilmar Ábrego García is home**
 * Avelo Airlines is ceasing DHS flights
 * Shuttered DC Target during small-biz Saturday (DCLC)
 * Reclaimed one parking lot from ICE (DCLC)
@@ -152,49 +156,45 @@ good has come of it?
 
 ---
 
-![right fit](./media/kilmar-bbc.png)
-
 # Kilmar
 
 * March: "Mistakenly" detained and deported to CECOT
-* April 4: Federal court hearing - coordinate w/ CASA and CAN
-  * Response from the family
-  * Press coverage
-  * Continued protest
-  * Political attention and ... change
+* Family sued, with support from CASA Maryland
+* Greenbelt federal courthouse is in our backyard
+* We coordinated with CASA to come and sing
+
+
+---
+
+# Kilmar, cont:
+
+1. We provided solace to the family
+2. “Anger motivates, music sustains”
+3. We kept the media focus on the case
+4. Politicians saw an opportunity ...
+5. ... Kilmar is home with his family
 
 ^Political actors like Sen. Chris Van Hollen got involved
 because they sensed a political opportunity that would not
 have appealed to them had the community sat on their hands
-
-^People kept coming back because the protests were hopeful
-and uplifting instead of just strident and angry
-
-^The family felt supported: We heard from CASA staff that
-Jennifer, his wife, and other family members felt blessed 
-and relieved that, expecting shouts and anger, they were greeting 
-with singing and centering: Paz, queremos paz, y libertad, 
-en este mundo.
 
 ^So we kept showing up, hearing after hearing, rain & heat, and
 now Kilmar is home his family.
 
 ---
 
+# Outcomes
 
-# Kilmar
-
-* March: "Mistakenly" detained and deported to CECOT
-* April 4: Federal court hearing - coordinate w/ CASA and CAN
-  * Response from the family
-  * Press coverage
-  * Continued protest
-  * Political attention and ... change
+* **Kilmar Ábrego García is home**
+* Avelo Airlines is ceasing DHS flights
+* Shuttered DC Target during small-biz Saturday (DCLC)
+* Reclaimed one parking lot from ICE (DCLC)
 
 ---
 
-# Taking Back our Neighborhood
+## Taking Back our Neighborhood
 
+![](./media/DCLC.mp4)
 
 ---
 
@@ -214,6 +214,9 @@ From sea to shining sea!
 _Hummm...._
 
 ---
+
+Humm this only, then do the Immigratnsverse for time.
+
 
 ^Patriotic songs are our songs. We celebrate
 not just beauty of America, but our heroes. Yes,
@@ -250,63 +253,67 @@ _(– Jesse Palidofsky)_
 
 ---
 
-# More Outcomes
+# Other Benefits
+
+* Motivates continuing on
+* Event tactics
+  * “Buttons” between speakers
+  * “Mic check” for safety
+* De-escalating conflict
+
+^
+- We need people showing up and coming back
+- Break up the monotony of speaker after speaker
+- Safety announcements 
+- NoVa J6 vigil: Speakers getting heckled
+- Heckler gets quiet for "This Little Light"
+- Heckler joins for America the B
+- The de-conflicting aspects scares the RW
 
 ---
 
 # Right wing media _loathes_ us
 
-* This is a good thing
-* They don't know how to respond
+![](./media/sunglasses.png)
+![](./media/megyn-kelly.png)
+![](./media/somali-daycare.png)
+![](./media/dept-of-distraction.jpg)
+
+^This is a good thing. They don't know how to respond
 
 ---
 
-# De-escalation example #2
-
-* Vignette from NoVa
+![original](./media/sunglasses.png)
+![original](./media/megyn-kelly.png)
+![original](./media/somali-daycare.png)
+![original](./media/dept-of-distraction.jpg)
 
 ---
 
-# Growing to meet the challenge
+# Effecting Regime Change 🇺🇸
 
-* 3.5% of the population 
-  * = 9.1 million
+* 3.5% engaged in active non-resistance
+  * = 9.1 million adults
+* Music is key to any movement
 * If 1:500 of those people sing
   * = 45,000 singers
-  * (or 9,100 if 1:1000 ratio)
 
 That's a lot of pink vests :smile:
 
---- 
-
-# Components
-
-* You
-  * And other choristers
-* Practices
-  * Trust
-  * Songleading
-* Comms
-  * Signal
-  * Email
-  * Web presence
+^Examples: Civil rights, S.Africa, Estonia
 
 ---
 
-# Components, cont.
-
-* Buy vests
-* Find events & sing
-* Stay connected
+# [fit]Let’s Do This
 
 ---
 
-# Safety / Security / Privacy
+# Discussion Points
 
----
-
-# Grab bag
-
-- Acoustical challenges
-- Strange bedfellows
-- Singing at active detentions/abductions doesn't work
+* Diversity and engagement
+* Networking with allies
+* Lessons from MN elsewhere
+* Tactical challenges
+* Safety, privacy, and security
+* Comms (Web / email / Signal)
+* Real-time rapid response (:lightbulb: don't)
