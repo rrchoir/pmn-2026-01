@@ -137,6 +137,18 @@ good has come of it?
 
 ---
 
+![](./media/vest.jpg)
+
+---
+
+![](./media/o_canada.jpg)
+
+---
+
+![](./media/no-kings-1.jpg)
+
+---
+
 # Outcomes
 
 * **Kilmar Ábrego García is home**
@@ -296,12 +308,20 @@ That's a lot of pink vests :smile:
 
 ---
 
-# Discussion Points
+# Questions / Discussion
 
+[.column]
+What have you heard so far today that you'll use in your frontline music activism?
+
+What is your experience of bringing music to frontline event?
+
+What worked well? / Not so well?
+
+What improvements would you suggest to help get more music integrating in actions?  
+
+[.column]
 * Diversity and engagement
 * Networking with allies
-* Lessons from MN elsewhere
+* Lessons from MN & elsewhere
 * Tactical challenges
 * Safety, privacy, and security
-* Comms (Web / email / Signal)
-* Real-time rapid response (:lightbulb: don't)
