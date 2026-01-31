@@ -292,7 +292,7 @@ _(– Katherine Lee Bates)_
 
 # Effecting Regime Change 🇺🇸
 
-* 3.5% engaged in active non-resistance
+* 3.5% engaged in non-violent resistance
   * = 9.1 million adults
 * Music is key to any movement
 * If 1:500 of those people sing
